@@ -13,6 +13,7 @@ int main()
 
     printf("hello world");
 
+    printf("branch test");
 
     return 0;
 
